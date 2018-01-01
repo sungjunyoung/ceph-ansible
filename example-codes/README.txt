@@ -1,0 +1,5 @@
+Chapter 1, chapter 3, Chapter 4, Chapter 6 and Chapter 7 don't have code files.
+
+Mastering Ceph covers all that you need to know to use Ceph effectively. Starting with design goals and planning steps that should be undertaken to ensure successful deployments, you will be guided through to setting up and deploying the Ceph cluster, with the help of orchestration tools. Key areas of Ceph including Bluestore, Erasure coding and cache tiering will be covered with help of examples. Development of applications which use Librados and Distributed computations with shared object classes are also covered. A section on tuning will take you through the process of optimisizing both Ceph and its supporting infrastructure. Finally, you will learn to troubleshoot issues and handle various scenarios where Ceph is likely not to recover on its own.
+
+By the end of the book, you will be able to successfully deploy and operate a resilient high performance Ceph cluster.
